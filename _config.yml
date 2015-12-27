@@ -1,0 +1,28 @@
+name: WIAD2016-CDMX
+favicon: null
+layout_spectrum: 0.1862121147569269
+typography_spectrum: 0.5950345664750785
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.06687142862938344
+  lightness: 0.9720316536258906
+  saturation: 0.934523606672883
+  rhythmicContrast: 0.5590384155511856
+purpose: []
